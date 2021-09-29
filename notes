@@ -1,0 +1,1 @@
+sudo podman run --name hello1 -v /var/local/SP:/var/local/SP -p 8082:8080 quay.io/tsrana/spring-boot-hello-world:quay
