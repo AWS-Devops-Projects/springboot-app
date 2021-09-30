@@ -27,7 +27,7 @@ public class HelloWorldController
 		 
 		 String output;
 		 output = "<center><H1>Greetings for the day</H1>";
-		 output = output + "<h2 style='color:green;'>version : 6.0</h2>";
+		 output = output + "<h2 style='color:green;'>version : 7.0</h2>";
 		 output = output + "<h2 style='color:red;'> Previous Timestamp :"+prev_timestamp+"</h2>";
 		 output = output + "<h2 style='color:blue;'> Latest Timestamp :"+latest_timestamp+"</h2>";
 		 if(run_env != null)
